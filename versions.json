@@ -9,8 +9,8 @@
                          "windows":  {
                                          "version":  "1.1.3",
                                          "asset":  "exarcheia-launcher-setup-v1.1.3.exe",
-                                         "sha256":  "0f038696d929a5cacaf2621565f133514a899a91daeda94fb32f503af709392e",
-                                         "size":  28193090
+                                         "sha256":  "435a357184c258f50735eff289cc11014bc12855702fdf0d84df544927e151cf",
+                                         "size":  28169330
                                      }
                      }
 }
