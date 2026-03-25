@@ -1,16 +1,16 @@
 {
-  "bootstrapper": {
-    "windows": {
-      "version": "1.1.2",
-      "asset": "exarcheia-launcher-setup-v1.1.2.exe",
-      "sha256": "8efee91b5e5352944cd3f6b804ae96fda80b570b4d6fb7ff7bbe0b194437b1cf",
-      "size": 28202691
-    },
-    "linux": {
-      "version": "1.1.2",
-      "asset": "exarcheia-bootstrapper-linux-v1.1.2.tar.gz",
-      "sha256": "7d3949e2486712102b02144be985b3abce446442ce30245c5e46d57c60525e94",
-      "size": 36996486
-    }
-  }
+    "bootstrapper":  {
+                         "linux":  {
+                                       "version":  "1.1.2",
+                                       "asset":  "exarcheia-bootstrapper-linux-v1.1.2.tar.gz",
+                                       "sha256":  "7d3949e2486712102b02144be985b3abce446442ce30245c5e46d57c60525e94",
+                                       "size":  36996486
+                                   },
+                         "windows":  {
+                                         "version":  "1.1.3",
+                                         "asset":  "exarcheia-launcher-setup-v1.1.3.exe",
+                                         "sha256":  "4e21fbabc04959730f138b99a0c05cc083cca348676ed51697affd482e642119",
+                                         "size":  28181482
+                                     }
+                     }
 }
