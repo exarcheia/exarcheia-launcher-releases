@@ -14,9 +14,9 @@
     }
   },
   "windows": {
-    "version": "1.1.2",
-    "asset": "launcher-windows-v1.1.2.zip",
-    "sha256": "1c91a0ae99eaa27ed0f7c670421f8e51ac4513b7c554bd3ae5ac3c89e2b749b6",
-    "size": 158083259
+    "version": "1.2.0",
+    "asset": "launcher-windows-v1.2.0.zip",
+    "sha256": "1c44740eb7e2b872b32b01bb10f8c56e891a40709ae840b0e3400230f729fe93",
+    "size": 158074063
   }
 }
